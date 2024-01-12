@@ -1,15 +1,3 @@
-import { Metadata} from "next";
-
-
-
-export const metadata = {
-  title: {
-    absolute: "",
-    default: "Next.js tutorial - mwai_sam ",
-    template: "%s | mwai_sam"
-  }
-}
-
 
 export default function RootLayout({
   children,
